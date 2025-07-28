@@ -18,7 +18,7 @@
 
 ## 🚀 How to Use
 
-1. Open the Google Colab notebook: [MythMaker Lite Colab](#) *(replace with actual link)*
+1. Open the Google Colab notebook
 2. Select from the dropdown:
    - 📝 Type: `Poem` or `Story`
    - 🔢 Number of words (token length)
