@@ -31,9 +31,8 @@
 
 - Python + Transformers (🤗 Hugging Face)
 - `TinyLlama/TinyLlama-1.1B-Chat-v1.0`
-- `Mistral-7B-Instruct` (optional alternate)
 - Google Colab
-- Streamlit (future UI support optional)
+- Gradio for UI
 
 ---
 
